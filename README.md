@@ -1,3 +1,3 @@
 # hello-world
 An exercise to understanding how github works.
-I am engineering girl.
+I am an engineering girl.
